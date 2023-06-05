@@ -1,6 +1,6 @@
 # GBSH
 
-This implements some of the features found in typical shells, like the bash or csh.
+GBSH implements features found in typical shells, like the bash or csh.
 
 ## Features
 
